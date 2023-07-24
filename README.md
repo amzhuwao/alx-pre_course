@@ -1,1 +1,1 @@
-My first readme
+A repository containing introductory learning activities, i.e a collection of resources that can be used to learn new skills or concepts. The activities are in a variety of formats, such as text, videos, or interactive exercises. They are designed for a variety of learners, from beginners to advanced users.
